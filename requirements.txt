@@ -238,7 +238,7 @@ langchain-core>=0.2.12
     # via
     #   dsrag (pyproject.toml)
     #   langchain-text-splitters
-langchain-text-splitters==0.2.2
+langchain-text-splitters>=0.3
     # via dsrag (pyproject.toml)
 langsmith>=0.1.84
     # via
