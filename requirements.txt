@@ -139,7 +139,7 @@ google-auth>=2.23.4
     # via kubernetes
 googleapis-common-protos>=1.61.0
     # via opentelemetry-exporter-otlp-proto-grpc
-grpcio>=1.62.3,<1.67.0
+grpcio>=1.66.2,<1.67.0
     # via
     #   chromadb
     #   dsrag (pyproject.toml)
@@ -148,11 +148,11 @@ grpcio>=1.62.3,<1.67.0
     #   opentelemetry-exporter-otlp-proto-grpc
     #   qdrant-client
     #   weaviate-client
-grpcio-health-checking==1.62.3
+grpcio-health-checking==1.66.2
     # via
     #   dsrag (pyproject.toml)
     #   weaviate-client
-grpcio-tools==1.62.3
+grpcio-tools==1.66.2
     # via
     #   dsrag (pyproject.toml)
     #   qdrant-client
