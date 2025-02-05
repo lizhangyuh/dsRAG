@@ -558,7 +558,7 @@ voyageai==0.2.3
     # via dsrag (pyproject.toml)
 watchfiles==0.24.0
     # via uvicorn
-weaviate-client==4.6.5
+weaviate-client==4.10.4
     # via dsrag (pyproject.toml)
 websocket-client==1.8.0
     # via kubernetes
